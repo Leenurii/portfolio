@@ -7,3 +7,4 @@
 
 ## 라이브 데모
 - 포트폴리오 사이트 :  https://leenurii.github.io/portfolio/
+- QRcode : https://leenurii.github.io/portfolio/QRcode.html
